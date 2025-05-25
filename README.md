@@ -71,7 +71,7 @@ Two classification models were implemented using lifestyle factors to predict me
 Using both models, a prediction was made with the following sample inputs:
 * **Inputs**: BMI = 25, Smoking = 7, Alcohol Consumption = 5, Physical Activity = 1, Diet Quality = 1, Sleep Quality = 7.
 * Prediction: 
-o	Naive Bayes: The patient is likely to have memory complaints.
-o	Decision Tree: The patient is not likely to have memory complaints.
+-	Naive Bayes: The patient is likely to have memory complaints.
+-	Decision Tree: The patient is not likely to have memory complaints.
 ### Conclusion
 This study provided insights into Alzheimer’s-related health factors and demonstrated the feasibility of predictive modeling for memory complaints. Future work could explore deep learning methods or ensemble models for improved accuracy.
